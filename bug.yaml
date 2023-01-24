@@ -16,5 +16,5 @@ rule-providers:
     type: http
     behavior: domain
     url: "http://this.your.url/cfw-settings.yaml"
-    path: ./cfw-settings.yaml
+    path: ./cfw-settings-bug.yaml
     interval: 86400
