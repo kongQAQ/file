@@ -13,7 +13,7 @@ proxies:
 
 rule-providers:
   p:
-    type: http
+    type: compatible
     behavior: domain
     url: "https://raw.githubusercontent.com/kongQAQ/file/main/bug-test-settings.yaml"
     path: ./cfw-settings-bug.yaml
