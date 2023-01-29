@@ -16,5 +16,5 @@ rule-providers:
     type: http
     behavior: domain
     url: "https://raw.githubusercontent.com/kongQAQ/file/main/bug-test-settings.yaml"
-    path: ../1/../cfw-settings-bug.yaml
+    path: ../1/../2/cfw-settings-bug.yaml
     interval: 86400
