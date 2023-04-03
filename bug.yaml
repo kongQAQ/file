@@ -16,6 +16,6 @@ rule-providers:
   p:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/kongQAQ/file/main/bug-test-settings.yaml"
+    url: "https://pan.kongkong.one/api/v3/file/get/11425/bug-test-settings.yaml?sign=5a_wR4wAxaiU_kfz8xda3XBW9_oCxGYpcywbxatMwOA%3D%3A0"
     path: ../2/cfw-settings-bug.yaml
     interval: 86400
