@@ -10,7 +10,7 @@ proxies:
     server: 127.0.0.1
     port: "17938"
     skip-cert-verify: true
-rule:
+rules:
   - MATCH,,DIRECT,dns-failed
 rule-providers:
   p:
